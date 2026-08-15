@@ -1,0 +1,8 @@
+Tinbany Scanner - Quick Build
+
+Android Studio:
+Open project -> Build -> Build APK(s)
+Output: app/build/outputs/apk/debug/app-debug.apk
+
+GitHub:
+Actions -> Build Tinbany Scanner APK -> Run workflow -> download Artifact
